@@ -1,0 +1,1 @@
+This project provisions an AWS environment using Terraform modules for VPC, EC2, locking,remote backend ,IAM, and S3. It demonstrates a production-ready pattern for attaching IAM roles to EC2 instances and enabling secure S3 access from within the instance.
